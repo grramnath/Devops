@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Hi This is Ramnath !!! All Devops Documents available here. 
+=======
+Hi This is Ramnath !!! All Devops Documents available here. 
+
+Just changed my name. 
+>>>>>>> 37836b3b3de8382820f0cddc1d69f3c229778cca
